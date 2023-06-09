@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+#uploadContainer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#chooseButton {
+  display: inline-block;
+  background-color: #428bca;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#generateButton, #resetButton {
+  display: inline-block;
+  background-color: #5cb85c;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+#collageContainer {
+  text-align: center;
+}
+
+#collageImage {
+  display: none;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
